@@ -1,0 +1,19 @@
+{
+  "name": "promoplussurvey",
+  "version": "1.0.0",
+  "description": "In Field Survey for PromoPlus - required npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EternalVigil/promoPlusSurvey.git"
+  },
+  "author": "Brandon Vigil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EternalVigil/promoPlusSurvey/issues"
+  },
+  "homepage": "https://github.com/EternalVigil/promoPlusSurvey#readme"
+}
